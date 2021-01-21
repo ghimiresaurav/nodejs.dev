@@ -63,5 +63,5 @@ If you want to see what's the latest available version of the package on the npm
 ```bash
 ❯ npm view cowsay version
 
-1.3.1
+1.4.0
 ```
